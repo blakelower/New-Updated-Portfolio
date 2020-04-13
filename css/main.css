@@ -553,9 +553,9 @@ td, th {
   font-style: italic;
 }
 
-.text-white {
+/* .text-white {
   color: #fff;
-}
+} */
 
 .transition {
   -webkit-transition: all 0.3s ease 0s;
@@ -2015,9 +2015,9 @@ nav a:hover {
 }
 
 .banner-content h1 {
-  font-size: 60px;
-  font-weight: 100;
-  line-height: 1.2em;
+  font-size: 80px;
+  /* font-weight: 10; */
+  line-height: 1.5em;
   margin-bottom: 20px;
 }
 
@@ -2187,9 +2187,9 @@ nav a:hover {
   color: #fff;
 }
 
-.service-area {
+/* .service-area {
   background: #ededaf;
-}
+} */
 
 .single-service .top {
   height: 260px;
@@ -2235,7 +2235,7 @@ nav a:hover {
 
 .single-service .bottom {
   height: 260px;
-  background: #6f7598;
+  background: #8460f6;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-flex;
@@ -2257,7 +2257,7 @@ nav a:hover {
 }
 
 .single-service:hover .top {
-  background: #c6bad6;
+  background: #ededaf;
 }
 
 .single-service:hover .top .content span {
@@ -2285,7 +2285,7 @@ nav a:hover {
 }
 
 .projects-area {
-  background: #b49bde;
+  background: #f2f5f7;
 }
 
 .active-project-carousel {
